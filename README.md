@@ -24,5 +24,5 @@ Model Training results:
 ![image](https://github.com/Shoaib3786/LifeVsion/assets/104248739/782b9e69-aaac-4c21-a7ca-68b720c8bacf)
 
 
-lifeVsion final Output:
+Deployment of LifeVsion output video:
 [Screencast from 2023-05-14 23-40-51.webm](https://github.com/Shoaib3786/LifeVsion/assets/104248739/016eb401-5683-4765-9be1-d9e810d944c8)
