@@ -6,7 +6,7 @@ Hence, we decided to mimic this thought in our project and introduce Computer vi
 
 LifeVsion is based upon computer Vision technology. That could enhance the experience of a surgeon. Now definitely this question arises in everyone’s mind.
 
-# what LifeVsion can do?
+## What LifeVsion can perform?
 1. Live streaming camera feed:
 As telesurgery is a surgical procedure in which doctors perform surgery on a remote basis, hence it becomes necessary to provide real-time detection to the doctors.
 
@@ -16,6 +16,10 @@ LifeVsion is based on computer vision technology, It is trained for detecting su
 
 3. Augmenting the detected object information during live detection:
 Here lifeVsion is equipped with another capability of displaying small information about the detected object using the Ideology of Augmented Reality which is generally used in Game development(Like: PokemonGo). In our model we augmented 2D image consist of message written explicitly over the detected object by simply using the coordinates of the detected object bounding box.
+
+Model Training results:
+![image](https://github.com/Shoaib3786/LifeVsion/assets/104248739/71570682-1397-4ddd-b688-0318a2ccdc3f)
+![image](https://github.com/Shoaib3786/LifeVsion/assets/104248739/782b9e69-aaac-4c21-a7ca-68b720c8bacf)
 
 
 lifeVsion final Output:
