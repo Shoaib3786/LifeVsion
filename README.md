@@ -18,7 +18,9 @@ LifeVsion is based on computer vision technology, It is trained for detecting su
 Here lifeVsion is equipped with another capability of displaying small information about the detected object using the Ideology of Augmented Reality which is generally used in Game development(Like: PokemonGo). In our model we augmented 2D image consist of message written explicitly over the detected object by simply using the coordinates of the detected object bounding box.
 
 Model Training results:
+
 ![image](https://github.com/Shoaib3786/LifeVsion/assets/104248739/71570682-1397-4ddd-b688-0318a2ccdc3f)
+
 ![image](https://github.com/Shoaib3786/LifeVsion/assets/104248739/782b9e69-aaac-4c21-a7ca-68b720c8bacf)
 
 
